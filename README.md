@@ -16,6 +16,8 @@ Loose coupling means designing components or classes so they have minimal depend
 
 <img width="942" height="549" alt="image" src="https://github.com/user-attachments/assets/e9cb07b9-7bdf-4216-acd2-6468da4225a6" />
 <img width="911" height="677" alt="image" src="https://github.com/user-attachments/assets/07019c60-652b-4116-8004-0d3d47f74620" />
+<img width="912" height="586" alt="image" src="https://github.com/user-attachments/assets/ac17c324-8059-4072-8c0d-cf3cf5596029" />
+<img width="945" height="417" alt="image" src="https://github.com/user-attachments/assets/71f741ef-6772-4c50-b19f-7fc6527ebe65" />
 <img width="926" height="636" alt="image" src="https://github.com/user-attachments/assets/719b2472-a28d-48e8-979b-78e4ec5e8248" />
 <img width="935" height="614" alt="image" src="https://github.com/user-attachments/assets/51eb54b4-fe4b-40ac-bd07-08e08bbb425e" />
 
