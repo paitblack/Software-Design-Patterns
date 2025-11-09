@@ -35,5 +35,21 @@ The Decorator design pattern allows behavior to be added to individual objects d
 <img width="913" height="517" alt="image" src="https://github.com/user-attachments/assets/91d7abaf-65e4-4935-b9d9-245e715d264f" />
 <img width="951" height="686" alt="image" src="https://github.com/user-attachments/assets/b7343b21-d9f2-4098-ac93-b0adfdef0568" />
 
+## Factory (Simple Factory, Factory Method, Abstract Factory)
+
+The Factory design pattern is used to create objects without specifying their exact class in the code. In the Pizza Store example, instead of directly instantiating different pizza types like CheesePizza, VeggiePizza, or PepperoniPizza inside the store, a factory (e.g., PizzaFactory) is responsible for creating the appropriate pizza object based on the order type. The store simply asks the factory for a pizza and then bakes, cuts, and boxes it. This approach centralizes object creation, makes the code easier to maintain, and allows new pizza types to be added without changing the main store logic — following the open/closed principle.
+
+<img width="697" height="490" alt="image" src="https://github.com/user-attachments/assets/95f56c45-cd2e-4593-a3d2-59f61e32751b" />
+<img width="668" height="318" alt="image" src="https://github.com/user-attachments/assets/5fb3720b-f24a-4c8d-9823-98a0e35639a7" />
+<img width="693" height="288" alt="image" src="https://github.com/user-attachments/assets/97024956-1fe0-49ed-b64f-1ea49cae93a9" />
+<img width="690" height="308" alt="image" src="https://github.com/user-attachments/assets/c9900ae7-43a0-437d-a165-6c2ff61baaf2" />
+<img width="678" height="485" alt="image" src="https://github.com/user-attachments/assets/0c017c79-8e0c-4e60-adc9-0d3a0e0dd7d0" />
+<img width="670" height="451" alt="image" src="https://github.com/user-attachments/assets/d12cb18a-b7e0-4a00-88d3-1565f4db1f7e" />
+<img width="691" height="216" alt="image" src="https://github.com/user-attachments/assets/000f434c-3796-4dc0-8590-4fc8009c69f1" />
+<img width="666" height="442" alt="image" src="https://github.com/user-attachments/assets/5fd67978-cb98-4cdc-97f0-9f7e5c1dbeec" />
+<img width="572" height="531" alt="image" src="https://github.com/user-attachments/assets/7fc94eb6-b89f-4e21-8b39-8ebd351a6ed4" />
+<img width="665" height="301" alt="image" src="https://github.com/user-attachments/assets/29e869ea-6e31-4489-81d3-c40a93881aac" />
+<img width="663" height="532" alt="image" src="https://github.com/user-attachments/assets/8839a2f3-b9e6-4c40-aa4f-458a0c0a23b9" />
+<img width="675" height="477" alt="image" src="https://github.com/user-attachments/assets/c7457b69-14cf-49d7-b130-33bc5cdccfdd" />
 
 
