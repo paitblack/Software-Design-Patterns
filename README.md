@@ -52,4 +52,7 @@ The Factory design pattern is used to create objects without specifying their ex
 <img width="663" height="532" alt="image" src="https://github.com/user-attachments/assets/8839a2f3-b9e6-4c40-aa4f-458a0c0a23b9" />
 <img width="675" height="477" alt="image" src="https://github.com/user-attachments/assets/c7457b69-14cf-49d7-b130-33bc5cdccfdd" />
 
+## Singleton
+
+<img width="697" height="510" alt="image" src="https://github.com/user-attachments/assets/0436d111-6fcb-4c83-9499-eeb0eb80246e" />
 
