@@ -21,3 +21,12 @@ Loose coupling means designing components or classes so they have minimal depend
 <img width="926" height="636" alt="image" src="https://github.com/user-attachments/assets/719b2472-a28d-48e8-979b-78e4ec5e8248" />
 <img width="935" height="614" alt="image" src="https://github.com/user-attachments/assets/51eb54b4-fe4b-40ac-bd07-08e08bbb425e" />
 
+## Decorator
+
+The Decorator design pattern allows behavior to be added to individual objects dynamically without modifying their original code. In the Coffee Decorating example, a base component like PlainCoffee provides the core functionality (e.g., cost and description), and decorators such as Milk, Sugar, or WhippedCream wrap the coffee object to add extra features or modify its behavior. Each decorator adds its own cost and description while keeping the same interface, allowing flexible combinations like “Coffee with milk and sugar.” This pattern promotes open/closed design — classes are open for extension but closed for modification.
+
+<img width="890" height="661" alt="image" src="https://github.com/user-attachments/assets/6855b50f-3a25-4e4c-84b9-b6bd653c0746" />
+<img width="706" height="664" alt="image" src="https://github.com/user-attachments/assets/10ff72aa-4b2b-4536-b0a1-0e5fd4d112bc" />
+<img width="902" height="661" alt="image" src="https://github.com/user-attachments/assets/ff13fa07-689e-4ddb-b0e5-b24ebe0547b2" />
+<img width="901" height="378" alt="image" src="https://github.com/user-attachments/assets/e17bb90d-0ae7-49f4-a272-aed79a521ccb" />
+<img width="943" height="709" alt="image" src="https://github.com/user-attachments/assets/33592d72-756e-4762-88f0-76dced823bd0" />
