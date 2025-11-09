@@ -30,3 +30,10 @@ The Decorator design pattern allows behavior to be added to individual objects d
 <img width="902" height="661" alt="image" src="https://github.com/user-attachments/assets/ff13fa07-689e-4ddb-b0e5-b24ebe0547b2" />
 <img width="901" height="378" alt="image" src="https://github.com/user-attachments/assets/e17bb90d-0ae7-49f4-a272-aed79a521ccb" />
 <img width="943" height="709" alt="image" src="https://github.com/user-attachments/assets/33592d72-756e-4762-88f0-76dced823bd0" />
+<img width="914" height="623" alt="image" src="https://github.com/user-attachments/assets/b3ebb15e-a04b-4ef7-ad11-b3c40609cb1f" />
+<img width="914" height="592" alt="image" src="https://github.com/user-attachments/assets/72a3ffd1-f6d1-4199-a509-d75186bed07d" />
+<img width="913" height="517" alt="image" src="https://github.com/user-attachments/assets/91d7abaf-65e4-4935-b9d9-245e715d264f" />
+<img width="951" height="686" alt="image" src="https://github.com/user-attachments/assets/b7343b21-d9f2-4098-ac93-b0adfdef0568" />
+
+
+
