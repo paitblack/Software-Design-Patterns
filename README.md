@@ -71,3 +71,18 @@ Facade Design Pattern provides a simplified interface to a complex subsystem. In
 <img width="1033" height="685" alt="image" src="https://github.com/user-attachments/assets/a618516d-4d84-4f06-941a-042fbe9cbbf8" />
 <img width="950" height="707" alt="image" src="https://github.com/user-attachments/assets/6dcad653-b37d-4f38-964d-8b6577cf3333" />
 
+## Template Method  
+
+Template Method Pattern defines the skeleton of an algorithm in a base class and lets subclasses override specific steps of the algorithm without changing its overall structure. In the coffee–tea example, a superclass such as CaffeineBeverage contains a template method like prepareRecipe(), which outlines the steps: boiling water, brewing the beverage, pouring it into a cup, and optionally adding condiments. While the steps for boiling water and pouring into a cup are common, the brewing and condiment-adding steps differ between coffee and tea. Therefore, subclasses like Coffee and Tea implement these steps in their own way (e.g., brewing coffee grounds or steeping tea leaves). This pattern promotes code reuse while ensuring that the overall preparation process remains consistent.
+
+<img width="903" height="650" alt="image" src="https://github.com/user-attachments/assets/5ff949de-0868-4e37-9418-2089ce3a9360" />
+<img width="918" height="675" alt="image" src="https://github.com/user-attachments/assets/9976620d-b42c-4b12-ba90-c1c3534aad14" />
+<img width="904" height="616" alt="image" src="https://github.com/user-attachments/assets/c5cfe565-d58e-419d-8f84-29815dbaa5e6" />
+<img width="829" height="679" alt="image" src="https://github.com/user-attachments/assets/fb6b292b-dcc0-4b59-98b6-db680ccf7b62" />
+<img width="910" height="604" alt="image" src="https://github.com/user-attachments/assets/152ef7d0-9414-46e1-b8c9-5ef4365de376" />
+<img width="932" height="636" alt="image" src="https://github.com/user-attachments/assets/b6ad4cb2-ae0d-4cc0-9517-3012172ccd64" />
+<img width="876" height="495" alt="image" src="https://github.com/user-attachments/assets/756bb59d-21c7-4703-9fc1-133ced0dc7a1" />
+<img width="873" height="573" alt="image" src="https://github.com/user-attachments/assets/21b6240b-15e9-4216-ae61-344378296e4f" />
+
+
+
