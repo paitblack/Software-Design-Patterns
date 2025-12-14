@@ -56,3 +56,18 @@ The Factory design pattern is used to create objects without specifying their ex
 
 <img width="697" height="510" alt="image" src="https://github.com/user-attachments/assets/0436d111-6fcb-4c83-9499-eeb0eb80246e" />
 
+## Adapter  
+
+Adapter Design Pattern allows classes with incompatible interfaces to work together by converting the interface of an existing class into one that the client expects. In the Duck–Turkey example, when we want to use a Turkey object where a Duck is expected, we introduce an Adapter class. This adapter implements the Duck interface while internally holding a Turkey object. Method calls like quack() are translated into gobble(), and fly() is adapted to match the turkey’s flying behavior. As a result, client code can treat the adapted object as a Duck without knowing whether it is actually a duck or a turkey, increasing flexibility and reusability.  
+
+<img width="1184" height="684" alt="image" src="https://github.com/user-attachments/assets/a8812c26-7fd5-49d5-ab9f-22cb239d5fd1" />
+<img width="1116" height="661" alt="image" src="https://github.com/user-attachments/assets/9f4e8fc2-052d-403e-9881-b4f6a9c8f589" />
+<img width="1170" height="646" alt="image" src="https://github.com/user-attachments/assets/88877be4-5476-4e8f-9338-99af55b6903c" />
+
+## Facade
+
+Facade Design Pattern provides a simplified interface to a complex subsystem. In the Home Theatre example, the system consists of multiple components such as an amplifier, DVD player, projector, lights, and sound system, all of which must be coordinated in a specific order. The Facade class offers high-level methods like watchMovie() or endMovie() that handle these interactions internally. This allows the client to control the entire home theatre with a single method call, without needing to understand the details of how the individual components work together, thereby reducing complexity and coupling.  
+
+<img width="1033" height="685" alt="image" src="https://github.com/user-attachments/assets/a618516d-4d84-4f06-941a-042fbe9cbbf8" />
+<img width="950" height="707" alt="image" src="https://github.com/user-attachments/assets/6dcad653-b37d-4f38-964d-8b6577cf3333" />
+
