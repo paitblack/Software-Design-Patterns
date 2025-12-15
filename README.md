@@ -84,5 +84,29 @@ Template Method Pattern defines the skeleton of an algorithm in a base class and
 <img width="876" height="495" alt="image" src="https://github.com/user-attachments/assets/756bb59d-21c7-4703-9fc1-133ced0dc7a1" />
 <img width="873" height="573" alt="image" src="https://github.com/user-attachments/assets/21b6240b-15e9-4216-ae61-344378296e4f" />
 
+## Iterator
+
+Iterator Design Pattern provides a way to access the elements of a collection sequentially without exposing its underlying representation. In the menu example, different menus (such as PancakeHouseMenu using an array and DinerMenu using a list) may store their menu items in different data structures. By implementing a common Iterator interface, each menu can provide its own iterator to traverse its items. The client code (for example, a Waitress class) uses these iterators to go through menu items and print or process them without knowing how the menus are internally implemented. This pattern improves flexibility and decouples the client from concrete collection types.  
+
+<img width="835" height="456" alt="image" src="https://github.com/user-attachments/assets/5c1fc461-913f-4c20-ad0c-7bb1e4c8729a" />
+<img width="877" height="615" alt="image" src="https://github.com/user-attachments/assets/8b529b8c-ede3-4e78-9521-3a324b86c45c" />
+<img width="862" height="663" alt="image" src="https://github.com/user-attachments/assets/8ab418f3-7774-4e0f-a1f6-f218d4e120d5" />
+<img width="837" height="607" alt="image" src="https://github.com/user-attachments/assets/aca13681-91cc-46ab-98de-ae788868345a" />
+<img width="926" height="688" alt="image" src="https://github.com/user-attachments/assets/18de30a0-8f01-408d-9694-5adf716fa729" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
