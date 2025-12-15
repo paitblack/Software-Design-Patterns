@@ -94,6 +94,12 @@ Iterator Design Pattern provides a way to access the elements of a collection se
 <img width="837" height="607" alt="image" src="https://github.com/user-attachments/assets/aca13681-91cc-46ab-98de-ae788868345a" />
 <img width="926" height="688" alt="image" src="https://github.com/user-attachments/assets/18de30a0-8f01-408d-9694-5adf716fa729" />
 
+## Composite  
+
+Composite Design Pattern allows objects to be composed into tree structures to represent part–whole hierarchies, letting clients treat individual objects and compositions uniformly. In the submenu example, menu items and submenus are organized in a hierarchical structure where both are treated as MenuComponents. A MenuItem represents a leaf node (an individual dish), while a Menu represents a composite that can contain both MenuItems and other Menus (submenus). This structure makes it possible to perform operations like print() or getPrice() on a single menu item or an entire menu tree in the same way. As a result, adding new submenus or menu items becomes easy, and the client code does not need to distinguish between simple and complex elements.  
+
+<img width="924" height="602" alt="image" src="https://github.com/user-attachments/assets/6edf4966-48df-45ea-8ecb-ec0346f98ce6" />
+<img width="784" height="658" alt="image" src="https://github.com/user-attachments/assets/1174741f-de2e-4461-a532-4bf86ade7c65" />
 
 
 
